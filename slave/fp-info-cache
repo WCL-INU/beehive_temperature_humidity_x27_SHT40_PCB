@@ -1,4 +1,4 @@
-25223520381726614
+25228825270924075
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81746,6 +81746,13 @@ Sanyo SIP-15
 15
 15
 Package_SO
+24-1EP_4.5x7.9mm_P0.65mm_EP4.5x7.9mm_Mask3.39x6.35mm_CD74HCx4067_16ch_multiplexer
+HTSSOP, 38 Pin (http://www.ti.com/lit/ds/symlink/tlc5951.pdf#page=46), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO TI-DAP/R-PDSO-G38
+0
+87
+39
+Package_SO
 Analog_MSOP-12-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm
 Analog  MSOP, 12 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-msop/05081871_d_mse16(12).pdf https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-msop/05081667_F_MSE16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 Analog MSOP SO MSE16-(12) Linear-Technology
@@ -92818,6 +92825,20 @@ Sensirion, SHT40, SHT41, SHT45, DFN, 4 Pin (https://sensirion.com/media/document
 DFN NoLead
 0
 4
+4
+Sensor_Humidity
+Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad_Matrix_pin_extend_0201
+Sensirion, SHT40, SHT41, SHT45, DFN, 4 Pin (https://sensirion.com/media/documents/33FD6951/624C4357/Datasheet_SHT4x.pdf)
+DFN NoLead
+0
+8
+4
+Sensor_Humidity
+Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad_Matrix_pin_extend_0402
+Sensirion, SHT40, SHT41, SHT45, DFN, 4 Pin (https://sensirion.com/media/documents/33FD6951/624C4357/Datasheet_SHT4x.pdf)
+DFN NoLead
+0
+6
 4
 Sensor_Humidity
 Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_YesCentralPad
